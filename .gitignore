@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/matrix-calculatorApp/build/
+/matrix-calculatorApp/build/classes/java/main/
